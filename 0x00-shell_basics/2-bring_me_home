@@ -1,2 +1,3 @@
-#!/bin/bash
-cd ~
+[master d9b5e1a]  Task 2.There is no place like home
+ 2 files changed, 5 insertions(+), 1 deletion(-)
+ create mode 100755 0x00-shell_basics/2-bring_me_home
